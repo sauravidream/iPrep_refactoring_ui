@@ -31,12 +31,16 @@ class StemProjectGrid extends StatelessWidget {
                 ),
               ),
               kappWidth10,
-              const Text(
-                "STEM for Maths",
-                style: TextStyle(
-                  color: Color(0xFF212121),
-                  fontWeight: FontWeight.w400,
-                  fontSize: 14,
+              const Expanded(
+                child: Text(
+                  "STEM for Maths",
+                  maxLines: 2,
+                  style: TextStyle(
+                    overflow: TextOverflow.ellipsis,
+                    color: Color(0xFF212121),
+                    fontWeight: FontWeight.w400,
+                    fontSize: 14,
+                  ),
                 ),
               ),
             ],

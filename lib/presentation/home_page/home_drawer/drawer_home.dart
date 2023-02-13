@@ -15,6 +15,7 @@ class HomeDrawer extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: SingleChildScrollView(
           child: SizedBox(
+           // height: MediaQuery.of(context).size.height *.95,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
@@ -127,9 +128,9 @@ class HomeDrawer extends StatelessWidget {
                   ),
                 ),
                 kappHeight40,
-               const SizedBox(
-                 child:   Text("Version : "),
-               )
+                const SizedBox(
+                  child:   Text("Version : "),
+                )
               ],
             ),
           ),

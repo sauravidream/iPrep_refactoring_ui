@@ -35,13 +35,14 @@ class LangaugeTodoPopupCard extends StatelessWidget {
                           color: Color(0xFF565657)),
                     ),
                   ),
-                  kappHeight5,
+                  kappHeight30,
                   ListView.separated(
                     shrinkWrap: true,
+                    padding: const EdgeInsets.symmetric(horizontal: 8),
                     physics: const NeverScrollableScrollPhysics(),
                     itemBuilder: (context, index) {
                       return const ListTile(
-                        contentPadding: EdgeInsets.all(12),
+                        contentPadding: EdgeInsets.symmetric(vertical: 6, horizontal: 16),
                         shape: RoundedRectangleBorder(
                           side:
                               BorderSide(width: 1, color: Color(0xFFDEDEDE)),
@@ -52,7 +53,7 @@ class LangaugeTodoPopupCard extends StatelessWidget {
                         leading: CircleAvatar(
                           radius: 22,
                         ),
-                        title: Text("English is my preferred language"),
+                        title: Text("English is my preferred language",style: TextStyle(fontSize: 12),),
                         trailing: CircleAvatar(
                           radius: 15,
                           child: Icon(Icons.check,size: 15,),
