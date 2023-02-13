@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+const kappHeight5 = SizedBox(height: 5,);
+const kappHeight10 = SizedBox(height: 10);
+const kappHeight15 = SizedBox(height: 15);
+const kappHeight20 = SizedBox(height: 20);
+const kappHeight25 = SizedBox(height: 25);
+const kappHeight30 = SizedBox(height: 30);
+const kappHeight40 = SizedBox(height: 40);
+const kappHeight45 = SizedBox(height: 45);
+const kappHeight50 = SizedBox(height: 50);
+const kappHeight60 = SizedBox(height: 60);
+const kappHeight70 = SizedBox(height: 70);
+const kappHeight80 = SizedBox(height: 80);
+const kappHeight90 = SizedBox(height: 90);
+const kappHeight100 = SizedBox(height: 100);
+const kappWidth5 = SizedBox(width: 5);
+const kappWidth10 = SizedBox(width: 10);
+const kappWidth20 = SizedBox(width: 20);
+const kappWidth25 = SizedBox(width: 25);
+const kappWidth30 = SizedBox(width: 30);
+const kappWidth40 = SizedBox(width: 40);
+const kappWidth50 = SizedBox(width: 50);
+const kappWidth60 = SizedBox(width: 60);
+const kappWidth70 = SizedBox(width: 70);
+const kappWidth80 = SizedBox(width: 80);
+const kappWidth90 = SizedBox(width: 90);
+const kappWidth100 = SizedBox(width: 100);

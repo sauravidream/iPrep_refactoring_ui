@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "485934712868",
+    "project_id": "iprep-app-fa99d",
+    "storage_bucket": "iprep-app-fa99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485934712868:android:6c2d0af0507b9b4f3770b1",
+        "android_client_info": {
+          "package_name": "org.idreameducation.iprepapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485934712868-8ibaoq0otngmbvnjafp1ds943v8u3ql5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.idreameducation.iprepapp",
+            "certificate_hash": "b9c64ebd1810b1c4ad70d10e5414b30398a44342"
+          }
+        },
+        {
+          "client_id": "485934712868-c5vt5qm44bkpofbt7esli5pt7h24okg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV06MAVc01bBSRp1XEwe8Z1iyL2p_5se4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485934712868-c5vt5qm44bkpofbt7esli5pt7h24okg1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485934712868-gjjifoeosjec9csqh2tbhv17racqhe8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rg.idreameducation.iprepapp.idream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

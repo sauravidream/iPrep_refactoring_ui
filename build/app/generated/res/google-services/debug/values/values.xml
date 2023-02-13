@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">485934712868-c5vt5qm44bkpofbt7esli5pt7h24okg1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">485934712868</string>
+    <string name="google_api_key" translatable="false">AIzaSyCV06MAVc01bBSRp1XEwe8Z1iyL2p_5se4</string>
+    <string name="google_app_id" translatable="false">1:485934712868:android:6c2d0af0507b9b4f3770b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCV06MAVc01bBSRp1XEwe8Z1iyL2p_5se4</string>
+    <string name="google_storage_bucket" translatable="false">iprep-app-fa99d.appspot.com</string>
+    <string name="project_id" translatable="false">iprep-app-fa99d</string>
+</resources>
